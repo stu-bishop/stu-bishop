@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a physical oceanographer and an assistant professor in the department of Maine, Earth, & Atmospheric Sciences at NC State University.  My faculty page is [here](https://meas.sciences.ncsu.edu/people/spbishop/).  I am interested in large-scale ocean and atmospheric circulation and how ocean turbulence influences our global climate through air-sea interaction.  My hobby projects outside of work include Data Science and Machine Learning (ML) problems, of which some are showcased here.  I am a cryptocurrency enthusiast and believe that everything will be run on the blockchain in the future, including artificial intelligence (AI) using decentralized distributed networks to run ML models.  Blockchain technology will solve a lot of problems through decentralized networks that are secure and free up data silos.  Some work I've done on price prediction of different cryptocurrencies is showcased here as well.      
+
 <!--
 **stu-bishop/stu-bishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
